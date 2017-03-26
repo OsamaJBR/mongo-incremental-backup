@@ -1,4 +1,4 @@
-# mongo-incremental-backup (WTFPL)
+# mongo-incremental-backup
 
 Having issue with mongo-dump / mongo-restore tools ? You don't want bussniess to access live databases direct ? Then, migrate data incrementaly and periodically with this script.
 
